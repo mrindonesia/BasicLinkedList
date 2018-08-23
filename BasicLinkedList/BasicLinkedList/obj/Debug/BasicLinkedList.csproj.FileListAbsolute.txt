@@ -1,0 +1,6 @@
+D:\2018FILES\C#\OOP\BasicLinkedList\BasicLinkedList\bin\Debug\BasicLinkedList.exe.config
+D:\2018FILES\C#\OOP\BasicLinkedList\BasicLinkedList\bin\Debug\BasicLinkedList.exe
+D:\2018FILES\C#\OOP\BasicLinkedList\BasicLinkedList\bin\Debug\BasicLinkedList.pdb
+D:\2018FILES\C#\OOP\BasicLinkedList\BasicLinkedList\obj\Debug\BasicLinkedList.exe
+D:\2018FILES\C#\OOP\BasicLinkedList\BasicLinkedList\obj\Debug\BasicLinkedList.pdb
+D:\2018FILES\C#\OOP\BasicLinkedList\BasicLinkedList\obj\Debug\BasicLinkedList.csprojResolveAssemblyReference.cache
